@@ -1,0 +1,46 @@
+{
+    "products": [
+        { 
+            "id": 100001,
+            "name": "Sony Wh-Ch510 Bluetooth Wireless",
+            "image": "src/assets/1001.png",
+            "price": 149, 
+            "in_stock": true
+        },
+        { 
+            "id": 100002,
+            "name": "boAt Rockerz 450",
+            "image": "src/assets/1002.png",
+            "price": 49, 
+            "in_stock": false
+        },
+        { 
+            "id": 100003,
+            "name": "JBL Tune 760N",
+            "image": "src/assets/1003.png",
+            "price": 179, 
+            "in_stock": true
+        },
+        { 
+            "id": 100004,
+            "name": "Logitech H111 Wired",
+            "image": "src/assets/1004.png",
+            "price": 39, 
+            "in_stock": false
+        },
+        { 
+            "id": 100005,
+            "name": "APPLE Airpods Max Bluetooth Headset",
+            "image": "src/assets/1005.png",
+            "price": 199, 
+            "in_stock": false
+        },
+        { 
+            "id": 100006,
+            "name": "ZEBRONICS Zeb-Thunder Wired",
+            "image": "src/assets/1006.png",
+            "price": 29, 
+            "in_stock": true
+        }       
+    ]    
+}
