@@ -15,34 +15,16 @@ A modern and responsive Shopping Cart application built using React.js, designed
 ✅ Clean and scalable folder structure
 🛠️ Tech Stack
 Frontend
-React.js
-JavaScript (ES6+)
-HTML5
-CSS3
-React Router DOM
-Development Tools
-Visual Studio Code
-Git & GitHub
-npm
-📁 Project Structure
-src
-│
-├── components
-│   ├── Navbar
-│   ├── ProductCard
-│   ├── Cart
-│   └── Footer
-│
-├── pages
-│   ├── Home
-│   └── CartPage
-│
-├── context
-│   └── CartContext.js
-│
-├── assets
-│
-└── App.js
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- Tailwind CSS
+- React Router DOM
+- Development Tools
+- Visual Studio Code
+- Git & GitHub
+- npm
+
 ⚙️ Installation & Setup
 Clone the repository
 git clone https://github.com/sagar-vaishnav/shopping-cart.git
