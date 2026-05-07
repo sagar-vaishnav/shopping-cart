@@ -18,7 +18,7 @@ Frontend
 React.js
 JavaScript (ES6+)
 HTML5
-CSS3 / SCSS
+CSS3
 React Router DOM
 Development Tools
 Visual Studio Code
@@ -40,29 +40,17 @@ src
 ├── context
 │   └── CartContext.js
 │
-├── services
-│
 ├── assets
 │
 └── App.js
 ⚙️ Installation & Setup
-
-Clone the repository:
-
+Clone the repository
 git clone https://github.com/sagar-vaishnav/shopping-cart.git
-
-Navigate to project directory:
-
+Navigate to the project directory
 cd shopping-cart
-
-Install dependencies:
-
+Install dependencies
 npm install
-
-Run the application:
-
+Run the application
 npm start
-
-Open browser:
-
+Open in browser
 http://localhost:3000
